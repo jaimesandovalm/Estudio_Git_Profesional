@@ -21,3 +21,5 @@ Creacion de un nuevo repositorio
 	4.-Agregar una Descripcion
 	5.-Tipo public
 	6.-Inicializar README.md
+	
+**__Antes de hacer un push hay que hacer un pull, despues el commit y el push___**	
