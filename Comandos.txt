@@ -25,3 +25,26 @@ Configuracion de llaves ssh
 	Agregar la llave privada ssh al servidor
 	
 		- ssh-add ~/.ssh/id_rsa
+		
+Repositorio remoto de git
+
+	Clonar Repositorio
+	
+		- git remote add origin rutaCopiadaGitHub
+		
+	Revisar los repositorios remotos agregados
+	
+		- git remote
+		- git remote -v
+		
+	Cambiar de la rama master a la main
+	
+		- git branch -m NombredelaRama
+		
+	Reconciliar las ramas vigentes
+	
+		- git pull origin master --allow-unrealated-histories
+		
+	Reparar si aun continua el error
+	
+		- git config pull.rebase false
