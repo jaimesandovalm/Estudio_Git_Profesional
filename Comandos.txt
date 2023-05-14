@@ -48,3 +48,15 @@ Repositorio remoto de git
 	Reparar si aun continua el error
 	
 		- git config pull.rebase false
+		
+Manejos de las ramas
+
+	Cambiar de ramas
+	
+		- git checkout NombredelaRama
+		
+	Mostrar las ramas existentes
+	
+		- git branch
+		
+		
