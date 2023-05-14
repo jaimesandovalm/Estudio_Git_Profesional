@@ -1,0 +1,13 @@
+Comandos Basicos de Git
+
+	Muestra la configuracion existente en git
+	
+		- git config --list
+		
+	Configuracion del Usuario
+	
+		- git config --global user.name "NombredelUsuario"
+		
+	configuracion del email
+	
+		- git config --global user.email "correo@correo"

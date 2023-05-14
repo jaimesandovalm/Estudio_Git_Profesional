@@ -1,1 +1,5 @@
 Curso Profesional de Git y Github
+
+Funcionamiento de las llaves publicas y privadas
+
+	Las llaves publicas y privadas, conocidas tambien como cifrado asimetrico de un solo camino, sirve para mandar mensajes privados
