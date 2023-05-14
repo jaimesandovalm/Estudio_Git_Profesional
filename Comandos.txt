@@ -11,3 +11,17 @@ Comandos Basicos de Git
 	configuracion del email
 	
 		- git config --global user.email "correo@correo"
+		
+Configuracion de llaves ssh
+
+	Generar la llave publica y privada(-t algoritmo, -b complejidad)
+	
+		- ssh-keygen -t rsa -b 4096 -C "correo@correo"
+		
+	Verificar que el servidor de llaves ssh este encendido
+	
+		- eval $(ssh-agent -s)
+		
+	Agregar la llave privada ssh al servidor
+	
+		- ssh-add ~/.ssh/id_rsa
