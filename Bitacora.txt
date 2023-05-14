@@ -3,3 +3,21 @@ Curso Profesional de Git y Github
 Funcionamiento de las llaves publicas y privadas
 
 	Las llaves publicas y privadas, conocidas tambien como cifrado asimetrico de un solo camino, sirve para mandar mensajes privados
+	
+Vincular llaves ssh en repositorio local a remoto
+
+	1.-copiamos la llave ssh publica
+	2.-Ir al perfil 
+	3.-Seleccionar la Opcion Settings
+	4.-Seleccionar la opcion SSH and GPG keys
+	5.-Seleccionar New SSH key
+	6.-Agregamos un titulo y copiamos la llave publica
+	
+Creacion de un nuevo repositorio
+
+	1.-Iniciar sesion en github
+	2.-Ir a la opcion New Repository
+	3.-Nombrar al Repositorio
+	4.-Agregar una Descripcion
+	5.-Tipo public
+	6.-Inicializar README.md
