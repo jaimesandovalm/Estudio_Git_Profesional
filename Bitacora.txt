@@ -34,3 +34,7 @@ Git Ignore
 Ignorar archivos en git
 
 1.- crear un archivo con el nombre .gitignore
+
+Rebase
+
+Tomar una rama entera y pegarla a la rama maestra, solo se debe hacer internamente, nuca por repositorio remoto, ya que el rebase reescribe la historia del proyecto

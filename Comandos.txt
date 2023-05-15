@@ -59,4 +59,8 @@ Manejos de las ramas
 	
 		- git branch
 		
-		
+Rebase
+
+	Pegar una rama creada a la rama del main
+	
+		- git rebase main
