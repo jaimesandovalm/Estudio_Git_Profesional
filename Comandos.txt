@@ -69,8 +69,18 @@ Stashed
 
 	Guardar los cambios de manera temporal
 	
-		- git stashed
+		- git stash
 		
 	Agregar los cambios a una nueva rama
 	
-		- git stashed branch NombredelaNuevaRama
+		- git stash branch NombredelaNuevaRama
+		
+Clean
+
+	Eliminar los archivos creados por error
+	
+		- git clean -f
+		
+	Muestra los archivos creados por error
+	
+		- git clean --dry-run

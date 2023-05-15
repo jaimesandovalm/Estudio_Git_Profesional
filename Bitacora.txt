@@ -24,6 +24,7 @@ Creacion de un nuevo repositorio
 	
 **__Antes de hacer un push hay que hacer un pull, despues el commit y el push___**	
 **__Pull request, estado intermedio antes de hacer un merge__**
+**__A git no le importan las carpetas, le importan los archivos__**
 
 Forks
 
@@ -42,3 +43,7 @@ Tomar una rama entera y pegarla a la rama maestra, solo se debe hacer internamen
 stashed
 
 guardar los cambios de manera temporal
+
+clean
+
+Elimina los archivos creador por error o q no vamos a utilizar
