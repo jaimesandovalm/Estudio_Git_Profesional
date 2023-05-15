@@ -47,3 +47,7 @@ guardar los cambios de manera temporal
 clean
 
 Elimina los archivos creador por error o q no vamos a utilizar
+
+Pick
+
+Trae un commit en especifico

@@ -84,3 +84,9 @@ Clean
 	Muestra los archivos creados por error
 	
 		- git clean --dry-run
+		
+Cherry-pick
+
+	Trae un commit en especifico
+	
+		- git cherry-pick id_commit
