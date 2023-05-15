@@ -64,3 +64,13 @@ Rebase
 	Pegar una rama creada a la rama del main
 	
 		- git rebase main
+		
+Stashed
+
+	Guardar los cambios de manera temporal
+	
+		- git stashed
+		
+	Agregar los cambios a una nueva rama
+	
+		- git stashed branch NombredelaNuevaRama

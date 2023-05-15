@@ -38,3 +38,7 @@ Ignorar archivos en git
 Rebase
 
 Tomar una rama entera y pegarla a la rama maestra, solo se debe hacer internamente, nuca por repositorio remoto, ya que el rebase reescribe la historia del proyecto
+
+stashed
+
+guardar los cambios de manera temporal
