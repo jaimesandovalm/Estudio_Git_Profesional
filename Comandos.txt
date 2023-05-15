@@ -90,3 +90,13 @@ Cherry-pick
 	Trae un commit en especifico
 	
 		- git cherry-pick id_commit
+		
+Reset
+
+	Recuperar un cambio
+		
+		- git reset --HARD id_commit
+		
+	Mostrar la lista de todos los cambios
+	
+		- git reflog
