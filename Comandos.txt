@@ -125,4 +125,38 @@ Busqueda en git
 		todos los commits.
 
 		grep–> para los archivos
-l		og --> para los commits.
+		log --> para los commits.
+		
+Comandos y recursos colaborativos
+
+	Muestra la cantidad de commit por miembro
+	
+		- git shortlog -sn
+		
+	Muestra hasta los commits borrados
+	
+		- git shortlog -sn -all
+		
+	Crear un nuevo alias a git
+	
+		- git config --global alias.stats "comando"
+		
+	Ver modificaciones linea por linea
+	
+		- git blame archivo
+		
+	Mostrar como fuciona el comando blame
+	
+		- git blame --help
+		
+	Mostrar los cambios desde una linea determinada
+	
+		- git blame archivo -L(inicial),(final)
+		
+	Ver las ramas remotas
+	
+		- git branch -r
+		
+	Ver las ramas remotas y locales
+	
+		- git branch -a
