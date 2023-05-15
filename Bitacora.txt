@@ -28,3 +28,9 @@ Creacion de un nuevo repositorio
 Forks
 
 Tomar una copia del estado actual del proyecto y clonarlo en github(se pueden hacer solo con proyectos publicos)
+
+Git Ignore
+
+Ignorar archivos en git
+
+1.- crear un archivo con el nombre .gitignore
