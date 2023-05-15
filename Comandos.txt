@@ -100,3 +100,29 @@ Reset
 	Mostrar la lista de todos los cambios
 	
 		- git reflog
+		
+Remendar un error en un commit
+
+	corregir un cambio en un commit, fusionando los commit
+	
+		- git commit --amend
+		
+Busqueda en git
+
+	comando para buscar
+		
+		- git grep PalabraBuscar
+		
+		git grep color -->use la palabra color
+		git grep la --> donde use la palabra la
+		git grep -n color–> en que lineas use la palabra color
+		git grep -n platzi --> en que lineas use la palabra platzi
+		git grep -c la --> cuantas veces use la palabra la
+		git grep -c paltzi --> cuantas veces use la palabra platzi
+		git grep -c “<p>”–> cuantas veces use la etiqueta <p>
+
+		git log-S “cabecera” --> cuantas veces use la palabra cabecera en
+		todos los commits.
+
+		grep–> para los archivos
+l		og --> para los commits.
