@@ -23,3 +23,8 @@ Creacion de un nuevo repositorio
 	6.-Inicializar README.md
 	
 **__Antes de hacer un push hay que hacer un pull, despues el commit y el push___**	
+**__Pull request, estado intermedio antes de hacer un merge__**
+
+Forks
+
+Tomar una copia del estado actual del proyecto y clonarlo en github(se pueden hacer solo con proyectos publicos)
